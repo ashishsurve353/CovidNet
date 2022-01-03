@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "214079838625",
+    "firebase_url": "https://covidnet-deb2f.firebaseio.com",
+    "project_id": "covidnet-deb2f",
+    "storage_bucket": "covidnet-deb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214079838625:android:14f822ffad0c05375713e0",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214079838625-40f35ig22kiufumbng2u5vdt7f86lk2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaFvBkUgIYVDcO7J4gB_VxYt7y5REwUfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214079838625-40f35ig22kiufumbng2u5vdt7f86lk2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
